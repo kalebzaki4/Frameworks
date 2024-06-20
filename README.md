@@ -2,10 +2,6 @@
 <h1 align="center">Frameworks 🚀</h1>
 
 <p align="center">
-  <img src="/mnt/data/image.png" alt="Logo do Frameworks" width="200">
-</p>
-
-<p align="center">
   👋 Bem-vindo ao repositório de Frameworks! Este é o lugar onde eu guardo todos os meus projetos relacionados a diversos frameworks de desenvolvimento web.
 </p>
 
